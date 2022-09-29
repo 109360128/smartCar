@@ -30,14 +30,14 @@
 
 現代科技日新月異，許多本來以為只能在科幻電影裡中看到的神奇事物，都一一實現在現實生活中，其中不需要人類親自駕駛的無人車，可以說是目前最夯的技術名詞，全球都在積極地研發相關的技術，在經濟部技術處科技專案的支持下，工研院也打造出國內首部自駕中巴，汽車相關產業紛紛預測2030年將會步入無人駕駛時代，看來無人車滿街跑的生活場景指日可待呀～
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/1.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image7.png?raw=true)
 
 無人車的誕生其實是源於一場車禍，為了避免「人為操作失誤」所引發的交通事故，這項複雜的技術應運而生，自動駕駛並不只是科幻電影中的酷炫象徵，它的存在能改善我們未來的生活面貌。
  
 所以自動駕駛到底是什麼？簡單來說，就是搭載了許多精密的感測器，能自動感測周圍環境，並且無需人類干預而自動導航行駛的載具。若將自駕車比喻成一個人，感測器就像眼睛，能感知周圍的路面環境，眼睛看到後透過如大腦的決策機制，在內建的運算系統計算後選擇駕駛路線，再經過如手腳的控制系統，操控煞車、油門等功能。
  
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/2.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image8.png?raw=true)
 
 如此科學性的主題，當然要來長一下知識！對於自動駕駛中最重要的眼睛—感測器就有好幾種，其中Radar和Lidar又有什麼差異？一起來看看吧！
 
@@ -51,11 +51,11 @@ RTK GPS + IMU慣性導航 ：現今智慧型手機裡皆有的GPS功能大家應
 
 V2X（Vehicle-to-everything）：是一項車載通訊設備，利用車對車、車對路通訊來延伸自駕車感知能力，例如號誌燈狀態、倒數秒數、路口盲點偵測等。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/3.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image9.png?raw=true)
 
 什麼？在自駕車的世界也有搞階級制度？威～不是啦，根據國際汽車工程師學會SAE的分類定義，依照系統的參與程度，自動駕駛可分為6種等級（從等級0，也就是完全由人來操控的傳統駕駛模式，到可完全交由自駕系統操控的等級5），從以上圖表中可以清楚地知道各等級間的差異，而我們接下來將談到的MIT國產自駕中巴，就是以「車為主，人為輔」的高階自動駕駛車。
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/4.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image10.png?raw=true)
 
 臺灣在自動駕駛技術的研發表現一直以來都相當出色，在擁有優良的無人車發展基礎上，工研院打造出了國內首部自駕中巴，搭載國內自主研發的「S3環周環境感知次系統」，加上許多精密的感測器，與一般的自駕車相比，中巴只需要按照預定的路線行駛，自駕車的普及領域，可能會先落地於公共運輸上。
 
@@ -63,7 +63,7 @@ V2X（Vehicle-to-everything）：是一項車載通訊設備，利用車對車�
 
 工研院的鄭安凱博士還透露，未來的自駕中巴內部將改成類捷運式，橫的座位可以增加容納的乘客數，總共約可容納20人以上～
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/5.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image11.png?raw=true)
 
 美國智庫「蘭德公司」2017年底公布的報告中提及自駕車的安全性比傳統駕駛高10%，1年約可讓3,000人避免喪生於交通事故，自駕車本身的安全性透過各項研究是可以被驗證的；而將自動駕駛技術放到中巴上，好處也能延伸至其他層面：打破了時間的限制，在任何時段都能搭乘，自駕中巴可能就是未來的無人接駁服務，同時也能解決現在傳統公車駕駛品質不一的問題，不會有不當加速、急煞而使乘客感到不適的狀況，在國際上也能提高臺灣自主研發技術的能見度，透過自駕中巴完整的次系統規模把很多不同廠商的模組整合在一起，也可讓廠商具備整體系統的技能知識。
 
@@ -97,7 +97,7 @@ Full Self-Driving Beta
 
 AI Day 今年最重大展示，也許就是這台（這位？）機器人。從主視覺就可看出，Tesla Bot 將是今年主角。去年首度曝光的 Tesla Bot 正式命名為 Optimus Sub Prime，致敬變形金剛，但最讓人好奇的是，這位「小柯博文」到底有什麼功用？
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/6.png?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image12.png?raw=true)
 ▲ Optimus 尺寸
 
 回到馬斯克常說的第一性原則，當前他有兩大任務要達成，一是完成火星移民計畫，二是讓電動車大量普及，三是養育 9 個小孩。要完成三個任務，有非常多困難要克服，但之一就是「勞工短缺」。
